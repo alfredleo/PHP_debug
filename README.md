@@ -38,6 +38,6 @@ function dumppp($variable, $use_print_r = true)
 
 Some thoughts on implementation:
 
-[https://stackoverflow.com/questions/415969/what-are-php-nested-functions-for][what-are-php-nested-functions-for]
+[what-are-php-nested-functions-for](https://stackoverflow.com/questions/415969/what-are-php-nested-functions-for)
 
-[https://stackoverflow.com/questions/5039431/difference-between-var-dump-var-export-print-r][difference-between-var-dump-var-export-print-r]
+[difference-between-var-dump-var-export-print-r](https://stackoverflow.com/questions/5039431/difference-between-var-dump-var-export-print-r)
